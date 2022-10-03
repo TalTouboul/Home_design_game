@@ -1,0 +1,37 @@
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\bin\Debug\ProjectNew.exe.config
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\bin\Debug\ProjectNew.exe
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\bin\Debug\ProjectNew.pdb
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.csproj.AssemblyReference.cache
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.csproj.SuggestedBindingRedirects.cache
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.Home.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.Properties.Resources.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.csproj.GenerateResource.cache
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.csproj.CoreCompileInputs.cache
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.exe
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.pdb
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.House.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.Unit.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.UnitDesing.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.BasicUnit.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.ExpendUnit.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.multipeImagesUnit.resources
+C:\מבוא למדעי המחשב מטלות + תירגולים\ProjectNew\ProjectNew\obj\Debug\ProjectNew.multipePannelsUnit.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\bin\Debug\ProjectNew.exe.config
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\bin\Debug\ProjectNew.exe
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\bin\Debug\ProjectNew.pdb
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.BasicUnit.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.ExpendUnit.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.Home.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.House.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.multipeImagesUnit.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.multipePannelsUnit.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.Properties.Resources.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.Unit.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.UnitDesing.resources
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.csproj.GenerateResource.cache
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.csproj.CoreCompileInputs.cache
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.exe
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.pdb
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tal\Desktop\לימודים\Csharp פרוייקטים\פרוייקט סוף תכנות מונחה עצמים\project end\ProjectNew\obj\Debug\ProjectNew.csproj.CopyComplete

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PB>
+    <counter>0</counter>
+    <tag>4</tag>
+    <x>308</x>
+    <y>264</y>
+  </PB>
+  <PB>
+    <counter>0</counter>
+    <tag>11</tag>
+    <x>401</x>
+    <y>393</y>
+  </PB>
+  <PB>
+    <counter>0</counter>
+    <tag>9</tag>
+    <x>256</x>
+    <y>408</y>
+  </PB>
+  <PB>
+    <counter>0</counter>
+    <tag>9</tag>
+    <x>200</x>
+    <y>300</y>
+  </PB>
+</ArrayOfPB>

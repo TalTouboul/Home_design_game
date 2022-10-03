@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PB>
+    <counter>0</counter>
+    <tag>4</tag>
+    <x>523</x>
+    <y>342</y>
+  </PB>
+  <PB>
+    <counter>0</counter>
+    <tag>5</tag>
+    <x>418</x>
+    <y>363</y>
+  </PB>
+  <PB>
+    <counter>0</counter>
+    <tag>7</tag>
+    <x>484</x>
+    <y>298</y>
+  </PB>
+</ArrayOfPB>
